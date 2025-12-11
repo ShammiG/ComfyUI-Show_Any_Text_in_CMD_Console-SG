@@ -13,7 +13,7 @@ You can connect this node to any text output and it will show up on the console.
            
 ● Toggle to show/hide text on the node          
             
-Works with Nodes 2.0                      
+Works with Nodes 2.0 as well                         
 
 Made this node before [ComfyUI Text_Tools_SG](https://github.com/ShammiG/ComfyUI_Text_Tools_SG)   
 thought someone might find this useful
