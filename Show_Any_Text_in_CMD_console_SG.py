@@ -45,7 +45,7 @@ class ShowAnyTextInCMDconsoleSG:
     OUTPUT_NODE = True
     CATEGORY = "utils"
 
-    def display_text(self, text, show_any_text_in_console, color_preset="white", hex_color=""):
+    def display_text(self, text, show_any_text_in_console, color_preset="yellow", hex_color=""):
         # Only print to console if the switch is True
         if show_any_text_in_console:
             
@@ -99,3 +99,4 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "ShowAnyTextInCMDconsoleSG": "Show Any Text In CMD console-SG",
 }
+
